@@ -1,4 +1,4 @@
-# Graphic Editor — Shape Hierarchy
+# Graphic Editor — Shape Hierarchy (GoIT Java Core — Module 8)
 
 This project is a Java-based implementation of a class hierarchy for a graphic editor, demonstrating core Object-Oriented Programming (OOP) principles such as abstraction, inheritance, encapsulation, and polymorphism.
 
