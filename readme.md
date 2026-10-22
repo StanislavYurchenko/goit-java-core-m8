@@ -35,5 +35,5 @@ goit-java-core-m8/
     ├── Triangle.java       # Triangle implementation (Heron's formula)
     ├── Rectangle.java      # Rectangle implementation
     ├── Oval.java           # Oval implementation
-    ├── ShapePrinter.java  # Utility printer class (Polymorphic processor)
+    ├── ShapePrinter.java   # Utility printer class (Polymorphic processor)
     └── Main.java           # Application entry point & demo
